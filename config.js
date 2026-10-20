@@ -37,8 +37,8 @@ const CONFIG = {
     username: "osion.nn",
     avatar: "",                // contoh: "photos/avatar/osion.jpg" (kosong = huruf awal)
     bio: "",
-    followers: "0",
-    following: "0",
+    followers: "12.121",
+    following: "650",
     stories: [                 // foto story kamu, urut dari yang pertama
       // "photos/story/osion1.jpg",
     ]
